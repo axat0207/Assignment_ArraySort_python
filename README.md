@@ -1,4 +1,4 @@
-Certainly! Here's a sample README file for the code:
+
 
 # Array Input and Sorting
 
